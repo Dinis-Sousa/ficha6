@@ -1,0 +1,29 @@
+body{
+    background-color: #070606;
+    margin-left:50px;
+}
+.cabecalho{
+    color:#FFFFFF;
+    font-size:5em;
+    font-family: 'Raleway';
+
+}
+.text{
+    color:#BDBDBD;
+    font-size:1.2em;
+    font-family:'Raleway';
+}
+.image{
+    width:800px;
+    height:500px;
+}
+.buttom{
+    border:0px solid;
+    color:#FFFFFF;
+    font-size:0.7em;
+    background-color:#2B892E;
+    border-radius:20px;
+    padding:10px;
+    padding-left:20px;
+    padding-right:20px;
+}
